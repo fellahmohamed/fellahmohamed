@@ -4,7 +4,7 @@ I am a final year student specializing in Artificial intelligence and Data scinc
 
 
 
-- 🔭 I’m currently working on ** Optical character recognition ** 
+- 🔭 I’m currently working on <b>Optical character recognition </b> 
 - 📫 How to reach me: ma.fellah@esi-sba.dz 
 
 
