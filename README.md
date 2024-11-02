@@ -1,10 +1,10 @@
 ### Hi there 👋, I am FELLAH Mohamed
-#### I'm a Computer Science and Engineering Student
+#### I'm a Computer Science and Engineering Student at ESI SBA
 I am a final year student specializing in Artificial intelligence and Data scince currently seeking a final project internship
 
 
 
-- 🔭 I’m currently working on Optical character recognition 
+- 🔭 I’m currently working on ** Optical character recognition ** 
 - 📫 How to reach me: ma.fellah@esi-sba.dz 
 
 
