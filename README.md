@@ -3,8 +3,6 @@
 I am a final year student specializing in Artificial intelligence and Data scince currently seeking a final project internship
 
 
-
-- 🔭 I’m currently working on <b>Optical character recognition </b> 
 - 📫 How to reach me: ma.fellah@esi-sba.dz 
 
 
